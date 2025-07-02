@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>juba_icon.png</file> <!-- Your startup icon file -->
+  </qresource>
+</RCC>
