@@ -1,1 +1,9 @@
-
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Juba Bluetooth Scanner
+Comment=Bluetooth Device Proximity Scanner with proximity graph
+Exec=juba
+Icon=juba
+Terminal=false
+Categories=Utility;Network;
