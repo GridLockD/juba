@@ -1,1 +1,10 @@
 
+Package: juba
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libqt6core6, libqt6widgets6, libqt6bluetooth6, libqt6gui6, libqt6network6, libxcb1, libglib2.0-0
+Maintainer: Your Name <youremail@example.com>
+Description: Juba Bluetooth Proximity Scanner
+ A Qt 6 application to scan and visualize Bluetooth devices with proximity.
