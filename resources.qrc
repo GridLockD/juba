@@ -1,5 +1,5 @@
 <RCC>
-  <qresource prefix="/juba/">
+  <qresource prefix="/">
     <file>icons/juba.ico</file>
     <file>icons/juba.png</file>
   </qresource>
