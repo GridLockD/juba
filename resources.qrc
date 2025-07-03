@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="/">
-    <file>icons/juba.ico</file>
-    <file>icons/juba.png</file>
+    <file>Icons/juba.ico</file>
+    <file>Icons/juba.png</file>
   </qresource>
 </RCC>
